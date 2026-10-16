@@ -4,7 +4,7 @@
 
 ## 开发与运行
 
-开发环境：Visual Studio Code（VSC），编程语言：Python 3。
+开发环境：Visual Studio Code（VSC）。
 
 在终端进入相应文件夹，执行 `python 文件名.py`。第13、14题末尾包含对象创建和查询演示，其他题按题意输入。第15题运行前执行 `python -m pip install -r requirements.txt`，运行时会在当前目录生成CSV、TXT和三张JPG。
 
@@ -28,7 +28,7 @@
 
 ## 自主选题与附加题
 
-来源：[蓝桥杯Python组历届真题合集](https://www.lanqiao.cn/problem-list/19/?sort=difficulty_level&asc=1)。难度按平台标注，简单12道、中等9道、困难5道。
+难度按平台标注，简单12道、中等9道、困难5道。
 
 | 题目 | 年份 | 难度 | 类型 | 源码 |
 | --- | --- | --- | --- | --- |
